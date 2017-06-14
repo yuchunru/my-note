@@ -1,4 +1,4 @@
-package swordOffer;
+
 
 import java.util.ArrayList;
 import java.util.Queue;
@@ -38,5 +38,9 @@ public class PrintFromTopToBottom {
 		}
         return aList;
         
+    }
+
+    public static void main(String[] args) {
+        System.err.println("");
     }
 }
